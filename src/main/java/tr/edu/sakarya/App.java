@@ -5,7 +5,7 @@ package tr.edu.sakarya;
 
 public class App {
     public String getGreeting() {
-        return "Hello world.";
+        return "Merhaba";
     }
 
     public static void main(String[] args) {
